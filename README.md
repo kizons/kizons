@@ -37,7 +37,7 @@ I'm an aspiring **Data Scientist** with a background in Mechanical Engineering a
 | [ EDA: Airbnb NYC](https://github.com/yourusername/EDA-Airbnb-NYC) | Exploratory analysis of Airbnb listings in NYC to identify pricing trends and neighborhood insights | Python, Pandas, Seaborn |
 | [ SQL: E-commerce Analysis](https://github.com/yourusername/Ecommerce-SQL-Analysis) | SQL-based analysis of customer purchases and revenue trends from mock e-commerce data | SQL, PostgreSQL |
 | [ A/B Testing: Marketing Campaign](https://github.com/yourusername/AB-Testing-Marketing) | Hypothesis testing and analysis of A/B test results for email campaigns | Python, Statistics |
-| [ ML: Churn Prediction](https://github.com/yourusername/Customer-Churn-Prediction) | Machine learning model to predict customer churn and identify high-risk segments | Python, Scikit-learn |
+| [ ML: Churn Prediction](https://github.com/kizons/Data_Science/Customer_Churn_Prediction) | Machine learning model to predict customer churn and identify high-risk segments | Python, Scikit-learn |
 
 ---
 
