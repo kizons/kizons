@@ -1,6 +1,7 @@
 # Hi there! I'm Kizito Okafor
 
-I’m an experienced Data Analyst with a solid foundation in data-driven problem solving and a background in Mechanical Engineering. I specialize in leveraging Python, SQL, statistics, and machine learning to extract insights, optimize operations, and drive informed decision-making. My work includes analyzing real-world datasets, building predictive models, and developing data visualization dashboards that translate complex data into actionable business insights.
+I’m an experienced **Data Analyst** with a solid foundation in data-driven problem solving and a background in Mechanical Engineering. I specialize in leveraging Python, SQL, statistics, and machine learning to extract insights, optimize operations, and drive informed decision-making. My work includes analyzing real-world datasets, building predictive models, and developing data visualization dashboards that translate complex data into actionable business insights.
+
 ---
 
 ## What I'm Working On
