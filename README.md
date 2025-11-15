@@ -34,10 +34,10 @@ I’m an experienced **Data Analyst** with a solid foundation in data-driven pro
 
 | Project | Description | Skills |
 |--------|-------------|--------|
-| [ EDA: Airbnb NYC](https://github.com/yourusername/EDA-Airbnb-NYC) | Exploratory analysis of Airbnb listings in NYC to identify pricing trends and neighborhood insights | Python, Pandas, Seaborn |
-| [ SQL: E-commerce Analysis](https://github.com/yourusername/Ecommerce-SQL-Analysis) | SQL-based analysis of customer purchases and revenue trends from mock e-commerce data | SQL, PostgreSQL |
-| [ A/B Testing: Marketing Campaign](https://github.com/yourusername/AB-Testing-Marketing) | Hypothesis testing and analysis of A/B test results for email campaigns | Python, Statistics |
-| [ ML: Churn Prediction](https://github.com/kizons/Data_Science/tree/main/Customer_Churn_Prediction) | Machine learning model to predict customer churn and identify high-risk segments | Python, Scikit-learn |
+| [ EDA: Space Mission](https://github.com/kizons/Space_Mission_EDA/blob/main/Space_Missions_Analysis_(start).ipynb) | Exploratory analysis of Space Explorations by different countries and Organizations | Python, Pandas, Seaborn |
+| [ SQL: Data Science Job Market Analysis](https://github.com/kizons/data_sci-job-market-analysis/blob/main/data_sci-job-market-analysis/data_sci-job-market-analysis.md) | SQL-based analysis of Data Science Job Market | SQL, PostgreSQL |
+| [ Power Bi: Visuals of Data Science job market](https://github.com/kizons/ds-job-market-powerbi) | Visuals of Data Science Job market | Power Bi, Statistics |
+| [ ML: Churn Prediction](https://github.com/kizons/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction/Customer_churn_prediction.ipynb) | Machine learning model to predict customer churn and identify high-risk segments | Python, Scikit-learn |
 ---
 
 ## Let’s Connect!
